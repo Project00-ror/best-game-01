@@ -1,8 +1,14 @@
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Project00-ror/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Project00-ror/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 # Void Drifter
 
 An arcade survival game: pilot a lone ship through an endless asteroid field.
 Dodge the rocks, thread near misses for bonus points, and grab glowing star
 shards — how long can you survive?
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/best-game-01)'s "Make the best game" bounty, $1,000 in USDC.
 
 ## How to play
 
